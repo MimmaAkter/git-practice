@@ -1,6 +1,7 @@
 hi my name is mimma.
 i am from bangladesh.
-now it is time to push and pull.
+now it is time to push and pull learn.
 push again.
 i have completed my msc.
 i have started my web development job in 2019
+bug fixing in branch.
